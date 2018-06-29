@@ -3,4 +3,4 @@ invoice:
   discovery:
     port: 1111
   docker:
-    datasource: jdbc:mysql://localhost:3306/microservices_invoice
+    datasource: jdbc:mysql://localhost:4306/microservices_invoice
