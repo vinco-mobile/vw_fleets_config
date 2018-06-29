@@ -1,0 +1,6 @@
+discovery:
+    port: 1111
+
+hystrix:
+   port: 7777
+    

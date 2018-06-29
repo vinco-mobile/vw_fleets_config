@@ -1,0 +1,5 @@
+zuul:
+  port: 1101
+  
+discovery:
+   port: 1111

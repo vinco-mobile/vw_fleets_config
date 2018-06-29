@@ -1,0 +1,5 @@
+zipkin:
+  port: 3301
+  
+discovery:
+   port: 1111

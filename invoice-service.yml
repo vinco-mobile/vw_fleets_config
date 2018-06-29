@@ -1,0 +1,6 @@
+invoice:
+  port: 4444
+  discovery:
+    port: 1111
+  docker:
+    datasource: jdbc:mysql://localhost:3306/microservices_invoice

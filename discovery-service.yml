@@ -1,0 +1,3 @@
+discovery:
+  port: 1111
+  hostname: localhost
